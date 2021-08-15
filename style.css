@@ -1,0 +1,24 @@
+#container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+
+}
+
+#para1{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+}
+
+.para2{
+    height: 20px;
+}
+
+
+#data{
+    display: flex;
+    justify-content: center;
+    margin-top:20px ;
+}
